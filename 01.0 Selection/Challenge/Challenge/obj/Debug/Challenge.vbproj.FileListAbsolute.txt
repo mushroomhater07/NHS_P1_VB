@@ -1,0 +1,11 @@
+C:\Users\new\Desktop\CS\VB\01 Selection\Challenge\Challenge\obj\Debug\Challenge.vbproj.AssemblyReference.cache
+C:\Users\new\Desktop\CS\VB\01 Selection\Challenge\Challenge\obj\Debug\Challenge.Resources.resources
+C:\Users\new\Desktop\CS\VB\01 Selection\Challenge\Challenge\obj\Debug\Challenge.vbproj.GenerateResource.cache
+C:\Users\new\Desktop\CS\VB\01 Selection\Challenge\Challenge\obj\Debug\Challenge.vbproj.CoreCompileInputs.cache
+C:\Users\new\Desktop\CS\VB\01 Selection\Challenge\Challenge\bin\Debug\Challenge.exe.config
+C:\Users\new\Desktop\CS\VB\01 Selection\Challenge\Challenge\bin\Debug\Challenge.exe
+C:\Users\new\Desktop\CS\VB\01 Selection\Challenge\Challenge\bin\Debug\Challenge.pdb
+C:\Users\new\Desktop\CS\VB\01 Selection\Challenge\Challenge\bin\Debug\Challenge.xml
+C:\Users\new\Desktop\CS\VB\01 Selection\Challenge\Challenge\obj\Debug\Challenge.exe
+C:\Users\new\Desktop\CS\VB\01 Selection\Challenge\Challenge\obj\Debug\Challenge.xml
+C:\Users\new\Desktop\CS\VB\01 Selection\Challenge\Challenge\obj\Debug\Challenge.pdb

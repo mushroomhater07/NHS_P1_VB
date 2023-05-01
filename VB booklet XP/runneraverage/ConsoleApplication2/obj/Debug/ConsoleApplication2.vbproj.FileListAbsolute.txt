@@ -1,0 +1,14 @@
+c:\users\chinghey.lau\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\chinghey.lau\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\chinghey.lau\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\chinghey.lau\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.xml
+C:\Users\chinghey.lau\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\chinghey.lau\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.Resources.resources
+C:\Users\chinghey.lau\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.vbproj.GenerateResource.Cache
+C:\Users\chinghey.lau\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\chinghey.lau\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.xml
+C:\Users\chinghey.lau\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\chinghey.lau\Documents\Visual Studio 2013\Projects\runneraverage\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\chinghey.lau\Documents\Visual Studio 2013\Projects\runneraverage\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\chinghey.lau\Documents\Visual Studio 2013\Projects\runneraverage\ConsoleApplication2\obj\Debug\ConsoleApplication2.xml
+C:\Users\chinghey.lau\Documents\Visual Studio 2013\Projects\runneraverage\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

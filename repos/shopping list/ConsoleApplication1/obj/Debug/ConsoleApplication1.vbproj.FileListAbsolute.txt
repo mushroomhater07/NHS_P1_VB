@@ -1,0 +1,13 @@
+c:\users\chinghey.lau\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\chinghey.lau\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Resources.resources
+c:\users\chinghey.lau\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+c:\users\chinghey.lau\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\chinghey.lau\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\chinghey.lau\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+c:\users\chinghey.lau\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\chinghey.lau\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+c:\users\chinghey.lau\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\ConsoleApplication1 (1)\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\ConsoleApplication1 (1)\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\ConsoleApplication1 (1)\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\ConsoleApplication1 (1)\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

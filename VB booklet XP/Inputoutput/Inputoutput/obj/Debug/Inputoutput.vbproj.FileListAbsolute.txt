@@ -1,0 +1,9 @@
+c:\users\chinghey.lau\documents\visual studio 2013\Projects\Inputoutput\Inputoutput\bin\Debug\Inputoutput.exe.config
+c:\users\chinghey.lau\documents\visual studio 2013\Projects\Inputoutput\Inputoutput\bin\Debug\Inputoutput.exe
+c:\users\chinghey.lau\documents\visual studio 2013\Projects\Inputoutput\Inputoutput\bin\Debug\Inputoutput.pdb
+c:\users\chinghey.lau\documents\visual studio 2013\Projects\Inputoutput\Inputoutput\bin\Debug\Inputoutput.xml
+c:\users\chinghey.lau\documents\visual studio 2013\Projects\Inputoutput\Inputoutput\obj\Debug\Inputoutput.Resources.resources
+c:\users\chinghey.lau\documents\visual studio 2013\Projects\Inputoutput\Inputoutput\obj\Debug\Inputoutput.vbproj.GenerateResource.Cache
+c:\users\chinghey.lau\documents\visual studio 2013\Projects\Inputoutput\Inputoutput\obj\Debug\Inputoutput.exe
+c:\users\chinghey.lau\documents\visual studio 2013\Projects\Inputoutput\Inputoutput\obj\Debug\Inputoutput.xml
+c:\users\chinghey.lau\documents\visual studio 2013\Projects\Inputoutput\Inputoutput\obj\Debug\Inputoutput.pdb

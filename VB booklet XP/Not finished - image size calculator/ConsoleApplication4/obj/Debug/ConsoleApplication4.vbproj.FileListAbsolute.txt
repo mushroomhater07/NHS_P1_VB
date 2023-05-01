@@ -1,0 +1,13 @@
+c:\users\chinghey.lau\documents\visual studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\new\Desktop\CS\VB\VB booklet XP\Not finished - image size calculator\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\new\Desktop\CS\VB\VB booklet XP\Not finished - image size calculator\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\new\Desktop\CS\VB\VB booklet XP\Not finished - image size calculator\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\new\Desktop\CS\VB\VB booklet XP\Not finished - image size calculator\ConsoleApplication4\bin\Debug\ConsoleApplication4.xml
+C:\Users\new\Desktop\CS\VB\VB booklet XP\Not finished - image size calculator\ConsoleApplication4\obj\Debug\ConsoleApplication4.vbproj.AssemblyReference.cache
+C:\Users\new\Desktop\CS\VB\VB booklet XP\Not finished - image size calculator\ConsoleApplication4\obj\Debug\ConsoleApplication4.Resources.resources
+C:\Users\new\Desktop\CS\VB\VB booklet XP\Not finished - image size calculator\ConsoleApplication4\obj\Debug\ConsoleApplication4.vbproj.GenerateResource.cache
+C:\Users\new\Desktop\CS\VB\VB booklet XP\Not finished - image size calculator\ConsoleApplication4\obj\Debug\ConsoleApplication4.vbproj.CoreCompileInputs.cache
+C:\Users\new\Desktop\CS\VB\VB booklet XP\Not finished - image size calculator\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\new\Desktop\CS\VB\VB booklet XP\Not finished - image size calculator\ConsoleApplication4\obj\Debug\ConsoleApplication4.xml
+C:\Users\new\Desktop\CS\VB\VB booklet XP\Not finished - image size calculator\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

@@ -1,0 +1,9 @@
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\18 check\18 check\bin\Debug\18 check.exe.config
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\18 check\18 check\bin\Debug\18 check.exe
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\18 check\18 check\bin\Debug\18 check.pdb
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\18 check\18 check\bin\Debug\18 check.xml
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\18 check\18 check\obj\Debug\_18_check.Resources.resources
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\18 check\18 check\obj\Debug\18 check.vbproj.GenerateResource.Cache
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\18 check\18 check\obj\Debug\18 check.exe
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\18 check\18 check\obj\Debug\18 check.xml
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\18 check\18 check\obj\Debug\18 check.pdb

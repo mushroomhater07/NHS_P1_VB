@@ -1,0 +1,9 @@
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.xml
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.Resources.resources
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.vbproj.GenerateResource.Cache
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.xml
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

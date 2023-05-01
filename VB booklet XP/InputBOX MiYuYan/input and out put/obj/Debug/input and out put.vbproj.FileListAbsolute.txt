@@ -1,0 +1,13 @@
+c:\users\chinghey.lau\documents\visual studio 2013\Projects\input and out put\input and out put\bin\Debug\input and out put.exe.config
+c:\users\chinghey.lau\documents\visual studio 2013\Projects\input and out put\input and out put\bin\Debug\input and out put.exe
+c:\users\chinghey.lau\documents\visual studio 2013\Projects\input and out put\input and out put\bin\Debug\input and out put.pdb
+c:\users\chinghey.lau\documents\visual studio 2013\Projects\input and out put\input and out put\bin\Debug\input and out put.xml
+c:\users\chinghey.lau\documents\visual studio 2013\Projects\input and out put\input and out put\obj\Debug\input_and_out_put.Resources.resources
+c:\users\chinghey.lau\documents\visual studio 2013\Projects\input and out put\input and out put\obj\Debug\input and out put.vbproj.GenerateResource.Cache
+c:\users\chinghey.lau\documents\visual studio 2013\Projects\input and out put\input and out put\obj\Debug\input and out put.exe
+c:\users\chinghey.lau\documents\visual studio 2013\Projects\input and out put\input and out put\obj\Debug\input and out put.xml
+c:\users\chinghey.lau\documents\visual studio 2013\Projects\input and out put\input and out put\obj\Debug\input and out put.pdb
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\InputBOX\input and out put\bin\Debug\input and out put.exe.config
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\InputBOX\input and out put\obj\Debug\input and out put.exe
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\InputBOX\input and out put\obj\Debug\input and out put.xml
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\InputBOX\input and out put\obj\Debug\input and out put.pdb
